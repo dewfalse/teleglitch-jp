@@ -1,0 +1,64 @@
+# item ID	English description (whitespace folded)	Japanese HUD rows (\n)
+pystol	9mm semi-automatic pistol. Good against small numbers.	9mm半自動拳銃。\n少数の敵に有効。
+nailgun	Shoots nails, only effective at close range.	釘を撃ち出す。近距離専用。
+nailgun2	Two-barrel nailgun, only effective at close range.	二連装の釘打ち銃。近距離専用。
+nailgun3	Triple-barrel nailgun, only effective at close range.	三連装の釘打ち銃。近距離専用。
+nailgun4	4-barrel nailgun, only effective at close range.	四連装の釘打ち銃。近距離専用。
+nailgun5	5-barrel nailgun, only effective at close range.	五連装の釘打ち銃。近距離専用。
+revolver	Old-school revolver. Good penetration and low accuracy.	旧式のリボルバー。\n貫通力は高いが、命中精度は低い。
+heavyrevolver	Revolver modified for using heavy rifle ammo	重ライフル弾仕様のリボルバー。
+revolver_6t	6-trigger revolver, shooting six bullets in one shot	引き金が六つあるリボルバー。\n一度に6発を撃ち出す。
+cannon	Old-school handcannon. Shoots 25mm explosive shells.	旧式のハンドキャノン。\n25mm榴弾を発射する。
+railgun	Hypervelocity rifle, uses electrically accelerated metal bolts	金属製の弾体を電磁加速する\n超高速ライフル。
+aupystol	9mm automatic pistol Amazing damage and rate of fire, medium accuracy.	9mm全自動拳銃。\n威力と連射力に優れ、精度は並。
+smg	Automatic gun that uses pistol rounds and rifle design	拳銃弾を使う自動火器。\n設計はライフル譲り。
+automaat	Standard automatic assault rifle.	標準型の自動小銃。
+automaat_trumliga	Standard assault rifle modified to operate with a drum magazine	ドラム弾倉に対応した\n標準型の自動小銃。
+minigun	Combined multibarrel gun, uses mg-3200s bullets.	複数の銃を束ねた多銃身砲。\nMG-3200の弾を使う。
+riflehv	High velocity semiautomatic rifle, uses depleted uranium bullets.	高速の半自動小銃。\n劣化ウラン弾を使う。
+automaathv	Fully automatic armor-piercing assault rifle. Uses depleted uranium bullets	装甲を貫く全自動小銃。\n劣化ウラン弾を使う。
+pump	Modern shotgun. Fully automatic.	現代型の全自動散弾銃。
+pumpx2	Double shotgun	二連式の散弾銃。
+agl3	Shoots 3 adhesive grenades, useful against swarms of enemies.	粘着弾を3発同時に放つ。\n敵の群れに有効。
+agl	Shoots adhesive grenades Useful against swarms.	粘着弾を放つ。\n敵の群れに有効。
+rifle	A sturdy, old-school rifle for taking out armored targets.	頑丈な旧式ライフル。\n装甲を持つ敵に有効。
+rifle2x	Two rifled barrels and one trigger.	銃身は二つ、引き金は一つ。
+lasgun	A giant laser pointer that cuts instead of pointing.	巨大なレーザーポインター。\n指したものを切断する。
+lasgun2	A giant laser pointer that cuts instead of pointing. Modded to use 4 batteries at once.	指したものを切断する\n巨大なレーザーポインター。\n電池4本を同時に使う改造型。
+tesla	Experimental ranged electrocution device.	離れた敵に電撃を放つ実験装置。
+motor	Includes small fusion power source, 2kW.	出力2kWの小型核融合電源を内蔵。
+magnet	Industrial-strength heavy magnet	ずしりと重い、強力な工業用磁石。
+nailbox	A box of 50x7.0mm nails. Sharp.	50×7.0mmの釘が入った箱。\n先端は鋭い。
+mchip	Programmable 8-bit microprocessor.	プログラム可能な8ビットの\nマイクロプロセッサ。
+timebomb	500g of RDX. A standard explosive used in military testing.	軍の試験で使われる標準爆薬。\nRDX、500g。
+smtimebomb	250g of highly explosive material used in military testing.	軍の試験で使われる高性能爆薬。\n内容量250g。
+nailbomb	250g of RDX and 80 nails.	爆発とともに釘が飛び散る。
+medkit	Universal tissue regeneration system + Smells like mint.	万能組織再生キットの強化版。\nミントの香りがする。
+smmedkit	Universal tissue regeneration system.	万能組織再生キット。
+tube	A long metal tube.	長い金属管。
+fattube	A long and fat metal tube.	太くて長い金属管。
+metalplate	Thick steel plate. Good for building something.	分厚い鋼板。\n何かを作るのに役立ちそうだ。
+hardware	A box full of random metal junk Looks very useful...	雑多な金属くずが詰まった箱。\nいかにも使えそうだ……。
+emptycan	Empty can.	空き缶。
+teleport	Emergency teleporter. Teleports you to starting position just before death and repairs some brain damage as well.	緊急転送装置。死の直前に\n出発地点へ転送し、脳の損傷も\nいくらか修復する。
+detector	Detects enemy movement in tight, pipe-shaped spaces. Works automatically.	狭い管状の通路で敵の動きを\n自動的に検知する。
+detector2	Detects micro changes in background electromagnetic noise and shows the location of nearby opponents.	周囲の電磁ノイズの変化を捉え、\n付近の敵の位置を表示する。
+powerknife	A sharpened slate of metal connected to electric generator that delivers deadly shocks with each strike.	一撃ごとに強烈な電撃を放つ刃。
+bulletbender	A magnetic shield that deflects bullets as they approach	飛んでくる弾をそらす磁気シールド。
+powerlegs	Powered leg supports that increase your speed.	移動速度を上げる動力式の脚部装具。
+meattrap	Lures hungry monsters and then explodes.	腹をすかせた怪物をおびき寄せ、\n爆発する。
+armor	A steel vest, offers solid protection from enemy projectiles only.	鋼鉄製の防弾ベスト。\n敵の飛び道具だけを防ぐ。
+smarmor	A steel vest, offers solid protection from enemy projectiles only.	鋼鉄製の防弾ベスト。\n敵の飛び道具だけを防ぐ。
+rocketitem	Disposable rocket launcher. One shot only.	使い捨てのロケット発射器。\n撃てるのは1発だけ。
+aprocketitem	Improvised anti-tank warhead on a single-shot rocket	単発式の対戦車ロケット。\n弾頭は間に合わせの品。
+cangun	Tin can filled with nails and explosives Dangerous to user!	空き缶製の武器。\n使う本人も危ない！
+cmeat	Canned meat. Tastes like cardboard and stays edible for 200 years.	肉の缶詰。段ボールの味がする。\n200年たっても食べられる。
+stimulant	Stimulants, painkillers and explosives in one pill makes you faster and produces pleasant side-effects.	刺激薬、鎮痛剤、爆薬が一錠に。\n足が速くなる。副作用も心地よい。
+vlongjohn	The Very Long John Antique elephant rifle, uses heavy rifle bullets.	ベリー・ロング・ジョン。\n重ライフル弾を使う骨董の象撃ち銃。
+fatjohn	The Fat John Antique two-barreled hunting shotgun.	ファット・ジョン。\n狩猟用の古い二連式散弾銃。
+griffon	5-shot revolver made of gold and titanium. A financial asset and self-defence measure combined.	金とチタンの5連発リボルバー。\n護身具と金融資産を兼ねる。
+silverspoon	Silver Spoon Jewellery-edition sport rifle made of silver and optimized for sharpshooting. Uses mg bullets.	シルバースプーン。銀製の競技銃。\n装飾を施した精密射撃モデル。\nMG弾を使う。
+sdcc	Self-defence credit card equipped with a tazer.	護身用クレジットカード。\n電撃装置付き。
+pinkdeath	20mm self-defence weapon optimized for heavy armor penetration at point-blank range. Uses heavy rifle bullets.	至近距離で重装甲を貫くための\n20mm護身銃。重ライフル弾を使う。
+dynamite	Historic explosives from the weapons museum.	武器博物館にあった年代物の爆薬。
+chocolate	The last box of chocolate on the planet.	この惑星に残る最後のチョコレート。

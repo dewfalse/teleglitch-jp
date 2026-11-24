@@ -1,0 +1,3 @@
+LIBRARY teleglitch_jp
+EXPORTS
+    luaopen_teleglitch_jp

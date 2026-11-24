@@ -1,0 +1,18 @@
+# id<TAB>normalized English source<TAB>Japanese lines separated by literal \n
+welcome	Welcome to Militech Corporation training course for nonhuman combatants Combat robot A-15 activated. This is facility AI speaking. Initiate learning protocols. Press space to continue.	ミリテック社の非人間型戦闘員向け\n訓練課程へようこそ。\n戦闘ロボットA-15の起動を確認。\nこちらは施設管理AIです。\n学習プロトコルを開始します。\nSpaceキーで次へ。
+move	Use WASD to move Most doors open automatically when you go near Terminals marked with [] contain useful information. Press space to use.	W・A・S・Dキーで移動します。\nほとんどの扉は、近づくと自動で開きます。\n[]マークの端末には役立つ情報があります。\nSpaceキーで端末を操作します。
+doors	Most doors open automatically when you go near. Locked doors have a red light near them	ほとんどの扉は、近づくと自動で開きます。\n施錠された扉には赤いランプがあります。
+knife	To use the knife, select any item from the inventory that is not a bomb and click left mouse button only.	ナイフを使うには、爆弾以外の\nアイテムを選び、左クリックします。\nこのとき右ボタンは押さないでください。
+items	Press space to pick up items and open containers. Use Mouse wheel to change selected item, left click to take from a container. press Q to drop items.	Spaceキーでアイテムを拾い、\nコンテナを開きます。\nホイールで選択アイテムを切り替えます。\nコンテナ内では左クリックで取り出します。\nQキーでアイテムを落とします。
+range	Proceed north to the shooting range	北側の射撃場へ進んでください。
+shoot	Hold right mouse button to draw weapon & aim Click left mouse button while aiming to shoot Press R for reload.	右ボタンを押し続け、銃を構えて狙います。\n狙った状態で左クリックすると発砲します。\nRキーでリロードします。
+score_bad	TOTAL TARGETS HIT:%d/25 Combat efficiency inadequate.	命中した標的：%d/25\n戦闘効率は基準に達していません。
+score_good	TOTAL TARGETS HIT:%d/25 Combat efficiency adequate.	命中した標的：%d/25\n戦闘効率は基準を満たしています。
+bombs	Get some bombs from that container.	コンテナから爆弾を取り出してください。
+walls	Blow your way through these yellow walls. Shooting works too.	この黄色い壁を爆破して進んでください。\n銃撃で壊すこともできます。
+organize	Use mouse wheel to change selected item in your inventory Hold "e" and use mouse wheel to move selected item up and down to organize your inventory.	ホイールで選択アイテムを切り替えます。\nEキーを押しながらホイールを回すと、\n選択アイテムを上下に移して整理できます。
+combine	Press C to enter item combination mode left click anywhere to combine selected items. Press C again to exit item combination mode.	Cキーでアイテム合成モードに入ります。\n画面内を左クリックすると、\n選択したアイテムを合成します。\nもう一度Cキーを押すと終了します。
+explosives	For throwing bombs, click left mouse button while aiming with a bomb. For dropping armed bombs, just leftclick. Caution, ~1 second delay.	爆弾を投げるには、爆弾を選んで\n右ボタンで狙い、左クリックします。\n作動状態の爆弾を足元に置くには、\n狙いをつけずに左クリックします。\n約1秒で爆発するので注意してください。
+map	Use TAB to check the map to see the bigger picture.	Tabキーでマップを開き、\n全体を確認できます。
+finish	Thank you Robot A-15, your training is complete.	ロボットA-15、お疲れさまでした。\nこれで訓練は終了です。
+targets	TARGETS:%d/%d	命中：%d/%d

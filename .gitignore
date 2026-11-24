@@ -1,0 +1,13 @@
+/teleglitch-jp/build/
+/teleglitch-jp/backup/
+/teleglitch-jp/analysis/
+/teleglitch-jp/installation.json
+*.log
+*.dll
+*.exe
+*.obj
+*.exp
+*.lib
+*.pdb
+*.zip
+.vs/

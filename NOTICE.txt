@@ -1,0 +1,25 @@
+権利表記
+
+Teleglitch: Die More Edition の非公式日本語化MODです。
+ゲームの開発は Test3 Projects、発売は Paradox Interactive です。
+
+MOD独自のC++・Lua・PowerShell・バッチコード、および独自のドキュメントには
+同梱の MIT License を適用します。描画DLLに含まれるMOD独自のコードも同様です。
+コードを改変・再配布するときは、著作権表示とライセンス文を添付してください。
+
+ゲームの名称、台詞、設定、原文、辞書内の照合用英文などの権利は各権利者に
+帰属します。これらの原文と、その日本語訳を含む翻訳データはMITの対象外です。
+翻訳データは、正規に入手した対応版ゲームでこのMODを使うために同梱しています。
+ゲームの実行ファイル、素材、ゲーム付属ライブラリ、フォントファイルは同梱して
+いません。日本語描画にはWindowsの「ＭＳ ゴシック」を使用します。
+
+Paradoxの利用規約第5節はユーザー制作コンテンツの無償・非商用公開を扱い、
+第三者が権利を持つゲームについては個別の条件があり得るとしています。
+本MODの権利表記はゲーム権利者による個別の許諾や公認を示すものではありません。
+
+ゲームの公式ストアページ
+https://store.steampowered.com/app/234390/
+Paradox Interactive 利用規約（第5節 User Generated Content）
+https://legal.paradoxplaza.com/eula
+MIT License
+https://opensource.org/license/mit
